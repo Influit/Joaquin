@@ -24,7 +24,7 @@ html,
 body {
 	height: 100%;
 	-webkit-font-smoothing: antialiased;
-	/* The html and body elements cannot have any padding or margin. */	
+	/* The html and body elements cannot have any padding or margin. */
 }
 
 /* -------------------- Layout -------------------- */
@@ -68,7 +68,7 @@ body {
 }
 
 .bio{
-	max-width: 550px;
+	max-width: 630px;
 }
 
 
@@ -78,7 +78,7 @@ p{
 	font-family: 'Roboto Slab', serif;
 	color: #484848;
 	font-weight: normal;
-	font-size: 0.875em;
+	font-size: 1em;
 	line-height: 2em;
 	margin: 20px 0;
 }
@@ -113,7 +113,7 @@ strong{
 /* media queries */
 
 @media screen and (max-width: 41.125em) {
-	
+
 	h1{
 		font-size: 1.8em;
 	}
